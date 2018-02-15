@@ -1,6 +1,6 @@
-<style>
+
 body {
-  background: <img src="lcc.jpg";
+  background: url("LCC.jpg");
   background-position: absolute;
   }
 footer {
@@ -14,4 +14,3 @@ footer {
 .mainmenu {
 display: inline-block;
 }
-</style>
